@@ -1,24 +1,13 @@
 ### Hi there, I'm Iago dos Anjos 👋
  Im student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development
- 
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guinhoanjos&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guinhoanjos&layout=compact)
-
-
-
-<!--
-**guinhoanjos/guinhoanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning SQL
+- 😄 Pronouns: He/Him
+<!-- 
+- 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guinhoanjos&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guinhoanjos&layout=compact)
+
