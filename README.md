@@ -1,5 +1,5 @@
 ### Hi there 👋
-Hi, my name is Iago dos Anjos. I`m student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development
+My name is Iago dos Anjos. I`m student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development
 <!--
 **guinhoanjos/guinhoanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
