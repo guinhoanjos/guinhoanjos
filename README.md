@@ -2,7 +2,7 @@
  Im student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development
  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guinhoanjos&show_icons=true&theme=radical)
 
 <!--
 **guinhoanjos/guinhoanjos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
