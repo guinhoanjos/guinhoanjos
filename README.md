@@ -1,5 +1,7 @@
-### Hi there 👋
-My name is Iago dos Anjos. I`m student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development
+### Hi there, I'm Iago dos Anjos 👋
+ Im student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development
+ 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--
