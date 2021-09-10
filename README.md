@@ -1,7 +1,7 @@
 ### Hi there, I'm Iago dos Anjos 👋
  Im student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning NOSQL with MongoDB
 - 😄 Pronouns: He/Him
 <!-- 
 - 👯 I’m looking to collaborate on ... 
