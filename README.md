@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning NOSQL with MongoDB
 - 😄 Pronouns: He/Him
 - 🏠 Born and raised in Salvador/Bahia, in Brazil.
-- ✈️ I want to know New York
+- ✈️ I want to travel New York
 <!-- 
 - 👯 I’m looking to collaborate on ... 
 - 🤔 I’m looking for help with ...
