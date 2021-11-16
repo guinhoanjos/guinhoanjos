@@ -1,5 +1,5 @@
 ### Hi there, I'm Iago dos Anjos 👋
- I'm student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites with prefer in game development.
+ I'm student of programation with knowledge in JS, React, HTML and CSS, looking for oportunites.
  I like everything about movies and games and I think about writing my own movie, game and even book in the future.
 <!-- - 🔭 I’m currently working on ... -->
 - 🎥 Graduated in Audiovisual Production from [Unijorge](www.unijorge.edu.br)
