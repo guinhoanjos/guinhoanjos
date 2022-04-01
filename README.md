@@ -3,7 +3,7 @@
  I like everything about movies and games and I think about writing my own movie, game and even book in the future.
 <!-- - 🔭 I’m currently working on ... -->
 - 🎥 Graduated in Audiovisual Production from [Unijorge](www.unijorge.edu.br)
-- 🌱 I’m currently learning NODE.js
+- 🌱 I’m currently learning Python
 - 😄 Pronouns: He/Him
 - 🏠 Born and raised in Salvador/Bahia, in Brazil.
 - ✈️ I want travel to New York
